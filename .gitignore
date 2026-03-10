@@ -1,0 +1,8 @@
+Debug/
+DebugConfig/
+Objects/
+Listings/
+*.bak
+*.uvguix.*
+*.dep
+
